@@ -51,11 +51,9 @@ The application supports full CRUD operations:
 ##  Project Structure
 StudentManagementSystem/
 │
-├── src/
+├── com/src/java
 │   ├── Student.java
-│   ├── StudentManager.java
-│   ├── ValidationUtils.java
-│   └── StudentInformationSystem.java
+│   └── StudentInformationSystem.class.java
 │
 ├── README.md
 
